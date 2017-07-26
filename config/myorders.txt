@@ -1,5 +1,5 @@
 Command      |    Information
---------------------------------------------
+-------------|------------------------------
 clear        |    Clean the showing data on the screen.
 clean        |    Clean the histories completely. ( Be careful ! )
 cmderr       |    Go to the cmder configuration directory.
