@@ -1,0 +1,11 @@
+Command      |    Information
+--------------------------------------------
+clear        |    Clean the showing data on the screen.
+clean        |    Clean the histories completely. ( Be careful ! )
+cmderr       |    Go to the cmder configuration directory.
+history      |    Show the histories what you have excuted yet.
+ifconfig     |    Show the network informations.
+ll           |    List the files or directories informations in currenty working directory.
+pwd          |    Show a path which your working directory is.
+reboot       |    Reboot your system.
+vi           |    Call vi.
